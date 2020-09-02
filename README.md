@@ -9,13 +9,12 @@
 #### Локально
 
 ```bash
-
 $ npm install
 
 # локальный сервер с hot reload на localhost:3000
 $ npm run dev
 
-
+```
 #### Через Docker
 
 ```bash
