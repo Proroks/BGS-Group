@@ -1,0 +1,11 @@
+.git
+.gitignore
+docker/
+Dockerfile
+README.md
+docker-compose.yml
+npm-debug*
+.gitlab-ci.yml
+.vs
+.vscode
+node_modules/
